@@ -7,7 +7,7 @@ generator client {
 
 datasource db {
   provider = "postgresql"
-  url      = env("postgresql://homies_vasz_user:e0L8A7hxOcJ2QiasB3JtRQdGRQVMlMCR@dpg-cv0o8dq3esus73aoj700-a/homies_vasz")
+  url      = env("POSTGRES_PRISMA_URL")
   // directUrl = env("POSTGRES_URL_NON_POOLING") 
 }
 
