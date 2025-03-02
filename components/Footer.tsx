@@ -10,15 +10,15 @@ const Footer = () => {
             <h3 className="text-lg font-semibold mb-4">Explore</h3>
             <nav className="flex flex-col space-y-2">
               <NavLink href="/browse">Browse</NavLink>
-              <NavLink href="/about">About</NavLink>
-              <NavLink href="/contact">Contact</NavLink>
+              <NavLink href="/trending">Trending</NavLink>
+              <NavLink href="/community">Community</NavLink>
             </nav>
           </div>
           <div>
             <h3 className="text-lg font-semibold mb-4">Connect</h3>
             <nav className="flex flex-col space-y-2">
-              <NavLink href="https://www.reddit.com/user/LowTwo1305/">Reddit</NavLink>
-              <NavLink href="https://discord.gg/sudhanshu_bharti">Discord</NavLink>
+              <NavLink href="https://t.me/Uchiha_Developer">Telegram</NavLink>
+              <NavLink href=" ">More Coming Soon!</NavLink>
             </nav>
           </div>
           <div>
@@ -31,7 +31,7 @@ const Footer = () => {
           </div>
         </div>
         <div className="mt-12 pt-8 border-t border-gray-800 text-center">
-          <p className="text-gray-400">&copy; 2024 Hanime Hub. All rights reserved.</p>
+          <p className="text-gray-400">&copy; 2025 Hentai Homies. All rights reserved.</p>
         </div>
       </div>
     </footer>
