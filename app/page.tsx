@@ -12,7 +12,7 @@ export default function Home() {
         <header className="relative mb-12 lg:mb-16">
           <div className="text-4xl sm:text-5xl lg:text-7xl font-extrabold mb-4 break-words text-center lg:text-left">
             <h1 className="mt-8 bg-clip-text text-transparent bg-gradient-to-r from-purple-400 to-pink-600">
-              Hanime Hub
+              Hentai Homies
             </h1>
           </div>
           <p className="text-lg -mb-8 sm:text-xl lg:text-2xl text-gray-400 text-center lg:text-left">Discover your next favorite hanimes</p>
@@ -25,7 +25,7 @@ export default function Home() {
                   className="w-full max-w-md p-3 sm:p-4 text-black rounded-md mb-4"
                 />
                 <p className="text-base sm:text-lg lg:text-xl text-gray-300 max-w-md text-center sm:text-left">
-                  Still in the bedroom thinking about best site to watch hentai ad free? Well, your wish cum true
+                  Still in the bedroom thinking about best site to watch hentai ad free? Well, your wish cum true Note: Search Bar not working now, We will fix it soon!
                 </p>
               </div>
               <div className='flex flex-row flex-wrap justify-center sm:justify-start'>
