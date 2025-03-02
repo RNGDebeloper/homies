@@ -28,16 +28,17 @@ const InfoComponent = ({ data }: any) => {
                         <Button variant="outline" onClick={openVideo} className="bg-purple-600 hover:bg-purple-700 text-white">
                             <PlayCircleIcon className="mr-2 h-4 w-4" /> Watch Below
                         </Button>
-                        {data.downloadURL && (
-                            <Button variant="outline" onClick={() => window.open(data.downloadURL, '_blank')} className="bg-purple-600 hover:bg-purple-700 text-white">
-                                <DownloadIcon className="mr-2 h-4 w-4" /> Download
-                            </Button>
-                        )}
-                        {data.video && (
-                            <Button variant="destructive" onClick={() => window.open(data.video, '_blank')} className="bg-red-600 hover:bg-red-700 text-white">
-                                <PlayCircleIcon className="mr-2 h-4 w-4" /> Watch on Hanime
-                            </Button>
-                        )}
+                        
+                     # {data.downloadURL && (
+                           // <Button variant="outline" onClick={() => window.open(data.downloadURL, '_blank')} className="bg-purple-600 hover:bg-purple-700 text-white">
+                               // <DownloadIcon className="mr-2 h-4 w-4" /> Download
+                           // </Button>
+                      //  )}
+                      //  {data.video && (
+                          //  <Button variant="destructive" onClick={() => window.open(data.video, '_blank')} className="bg-red-600 hover:bg-red-700 text-white">
+                           //     <PlayCircleIcon className="mr-2 h-4 w-4" /> Watch on Hanime
+                           // </Button>
+                       // )}
                     </div>
 
                     <div>
