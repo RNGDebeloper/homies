@@ -28,9 +28,8 @@ export default function RootLayout({
         {children}
       <Footer/>
         <Analytics />
-
-        <script type='text/javascript' src='//pl26870145.profitableratecpm.com/3b/d1/9c/3bd19c12276f462aee0c351f6fdeb3ae.js'></script>
         </body>
+       <script type='text/javascript' src='//pl26870145.profitableratecpm.com/3b/d1/9c/3bd19c12276f462aee0c351f6fdeb3ae.js'></script>
     </html>
   )
 }
