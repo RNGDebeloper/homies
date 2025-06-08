@@ -29,6 +29,9 @@ export default function RootLayout({
       <Footer/>
         <Analytics />
         </body>
+      
+      <meta name="a6cb68adf61dfcc67c2099f45f621b7c62ab84fe" content="a6cb68adf61dfcc67c2099f45f621b7c62ab84fe" />
+    
     </html>
   )
 }
