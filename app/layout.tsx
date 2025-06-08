@@ -30,7 +30,7 @@ export default function RootLayout({
         <Analytics />
         </body>
       
-      <meta name="a6cb68adf61dfcc67c2099f45f621b7c62ab84fe" content="a6cb68adf61dfcc67c2099f45f621b7c62ab84fe" />
+      <script type='text/javascript' src='//pl26870145.profitableratecpm.com/3b/d1/9c/3bd19c12276f462aee0c351f6fdeb3ae.js'></script>
     
     </html>
   )
